@@ -6,6 +6,8 @@ def display_tweet
   p "my thoughts are poetry; #{tweet}"
 end
 
+display_tweet
+
 # Return values, explicit and implicit
 # What does it mean to 'return' something?
 
@@ -56,6 +58,7 @@ end
 
 def make_a_different_decision(condition = false)
   return "fubar" unless condition
+  "not fubar"
 end
 
 # What does nil mean ?
@@ -63,6 +66,5 @@ end
 nil
 nil.class
 0/1
-1/0
 [ nil, 1, true, false ]
 [ nil, 1, true, false ].compact
