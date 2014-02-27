@@ -1,5 +1,6 @@
 # https://github.com/rubyonrailstutor/curriculum/blob/master/arrays.rb
 # http://ruby-doc.org/core-2.1.1/Array.html
+# join a social pair programming class rubyonrailstutor.com
 
 # how to view the first name ?
 names = [ "jim", "john", "erik", "michelle"]
@@ -51,3 +52,5 @@ names.pop
 numbers = [ 1, 2, 3, 4]
 numbers.inject(:+)
 numbers.reduce(100) {|initial_value, n| initial_value + n }
+
+# join a social pair programming class rubyonrailstutor.com
