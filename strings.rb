@@ -1,4 +1,5 @@
-# a string data enclosed in "" or ''
+# https://github.com/rubyonrailstutor/curriculum/blob/master/strings.rb
+# http://ruby-doc.org/core-2.1.1/String.html
 
 name = "john"
 name.reverse
