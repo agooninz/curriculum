@@ -44,4 +44,14 @@
 - validate active record objects
 - interpolate data into a view
 - deploy app to production
+- what is haml and what is the biproduct of using it ? 
+
+### html/css
+
+- what goes into the source of an html page ? 
+- what are classes and ids ? 
+- the box model
+- float vs positioning
+- scss vs css
+- quickly build a layout
 
